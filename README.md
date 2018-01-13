@@ -25,11 +25,11 @@ GPSLink uses a number of open source projects to work properly:
 Development
 -------------
 
-GPSLink was created by [Michael Schwartz](http://mikethedj4.github.io/).  
+GPSLink was created by [Michael Schwartz](http://michaelsboost.github.io/).  
 
 Want to contribute? Great!  
 
-If you have feedback or feature requests, [please add/vote here](https://github.com/mikethedj4/GPSLink/issues).  
+If you have feedback or feature requests, [please add/vote here](https://github.com/michaelsboost/GPSLink/issues).  
 
 Of course GPSLink is free and open source, so you can always fork the project and have fun :)
 
